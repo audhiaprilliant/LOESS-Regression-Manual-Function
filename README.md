@@ -1,1 +1,1 @@
-# LOESS-Manual-Function
+# LOESS-Regression-Manual-Function
