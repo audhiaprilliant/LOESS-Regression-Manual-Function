@@ -1,4 +1,4 @@
 ## RStat Programming
 - [x] LOESS Regression
-- [x] Apply function
+- [x] Apply Function
 - [x] Splitting Data Function
