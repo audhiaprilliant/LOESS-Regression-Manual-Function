@@ -54,8 +54,8 @@ split.data.uniquecode = function(location,sep,split.number,name.file) {
   }
 }
 # Check Function
-split.data.uniquecode(location = 'D:/Audhi Aprilliant/IPB Works/Statistics Department/INTERNSHIP/Iris Worldwide 2019/TASKS/21 TASK - Splitting Unique Code/D  1 + COKLAT   800  (  NB )  TGL  240719',
-                      sep = ';',
-                      split.number = 20000,
-                      name.file = 'D  1 + COKLAT   800  (  NB )  TGL  240719'
+split.data.uniquecode(location = 'to/your/dir/',     # Path to data directory
+                      sep = ';',                     # Separator
+                      split.number = 20000,          # Number of split rows
+                      name.file = 'Custom Filename'  # Custom name for final data
                       )
