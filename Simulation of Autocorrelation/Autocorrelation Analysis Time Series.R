@@ -66,5 +66,5 @@ beta.alpha = generate.beta(ti = 30,
                            repetition = 1000)
 View(beta.alpha)
 write.csv(x = beta.alpha,
-          file = 'D:/Audhi Aprilliant/IPB Works/Statistics Department/6th Semester/Time Series Analysis/Assignment/6th Assignment/Dataset/Data Beta Alpha -0.3.csv',
+          file = 'D:/Dataset/Data Beta Alpha -0.3.csv',
           row.names = FALSE)
