@@ -2,7 +2,7 @@
 
 library(ggplot2)
 
-data.beta.alpha = read.csv('D:/Audhi Aprilliant/IPB Works/Statistics Department/6th Semester/Time Series Analysis/Assignment/6th Assignment/Dataset/Data Beta Alpha -0.7.csv',
+data.beta.alpha = read.csv('D:/Dataset/Data Beta Alpha -0.3.csv',
                            header = TRUE,
                            sep = ',')
 View(data.beta.alpha)
